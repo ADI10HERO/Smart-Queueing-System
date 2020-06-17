@@ -1,4 +1,7 @@
 # Scenario 1: Manufacturing Sector
+
+Below is the first scenario. The job is to read through the scenario and figure out which type of hardware might best fit the client's needs.
+
 ---
 
 ## The Scenario
