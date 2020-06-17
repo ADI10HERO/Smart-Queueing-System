@@ -12,7 +12,7 @@ Build custom queuing systems for the retail, manufacturing and transportation se
   -  GPU
   -  FPGA
 
-- The scenarios are mentioned in their respective text files.
+- The scenarios are mentioned in their respective md files.
 
 
 ## TODO:
